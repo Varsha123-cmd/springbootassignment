@@ -53,18 +53,18 @@
  <repositories>
         <repository>
             <id>myMavenRepoRead</id>
-            <url>https://mymavenrepo.com/repo/6uU5wsmuRSRe5oYDDuQ0/</url>
+            <url>https://mymavenrepo.com/repo/bAK4CY6VwCMEy3yHIUc6/</url>
         </repository>
     </repositories>
     
     <distributionManagement>
         <repository>
             <id>myMavenRepoWrite</id>
-            <url>https://mymavenrepo.com/repo/PsvZFUnAeSIGtYhivj14/</url>
+            <url>https://mymavenrepo.com/repo/cJifN9woTbw3RFD2Qe8d/</url>
         </repository>
         <snapshotRepository>
             <id>myMavenRepoWrite</id>
-            <url>https://mymavenrepo.com/repo/PsvZFUnAeSIGtYhivj14/</url>
+            <url>https://mymavenrepo.com/repo/cJifN9woTbw3RFD2Qe8d/</url>
         </snapshotRepository>
     </distributionManagement>
 	<build>
