@@ -15,9 +15,9 @@
 	<name>Springbootassignment2-1</name>
 	<description>Demo project for Spring Boot</description>
 
-	<!--    <properties>
-		<java.version>11</java.version>
-	</properties> -->
+	    <properties>
+		<java.version>1.8</java.version>
+	</properties> 
 
 	<dependencies>
 		<dependency>
@@ -53,18 +53,18 @@
  <repositories>
         <repository>
             <id>myMavenRepoRead</id>
-            <url>https://mymavenrepo.com/repo/6uU5wsmuRSRe5oYDDuQ0/</url>
+            <url>https://mymavenrepo.com/repo/zQLhX82X1UXDSAxkXR2p/</url>
         </repository>
     </repositories>
     
     <distributionManagement>
         <repository>
             <id>myMavenRepoWrite</id>
-            <url>https://mymavenrepo.com/repo/PsvZFUnAeSIGtYhivj14/</url>
+            <url>https://mymavenrepo.com/repo/NjgMW4Fy7NcSvqYuLENW/</url>
         </repository>
         <snapshotRepository>
             <id>myMavenRepoWrite</id>
-            <url>https://mymavenrepo.com/repo/PsvZFUnAeSIGtYhivj14/</url>
+            <url>https://mymavenrepo.com/repo/NjgMW4Fy7NcSvqYuLENW/</url>
         </snapshotRepository>
     </distributionManagement>
 	<build>
